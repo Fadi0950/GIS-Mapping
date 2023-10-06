@@ -48,7 +48,7 @@
         
           <li class="nav-item">
             <a href="index.php" class="nav-link">
-              <i class="nav-icon fas fa-solid fa-bolt"></i>
+              <i class="nav-icon fas fa-home"></i>
               <p>
                 Home
                 <i class="right fas fa-angle-right"></i>
@@ -58,7 +58,7 @@
 
           <li class="nav-item">
             <a href="map.php" class="nav-link">
-            <i class="nav-icon fas fa fa-map-marker" aria-hidden="true"></i>
+            <i class="nav-icon fas fa-map-marked" aria-hidden="true"></i>
             
               <p>
                 Maps
